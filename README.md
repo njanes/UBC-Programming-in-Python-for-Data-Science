@@ -4,7 +4,7 @@
 
 This repository holds notebooks from assignments and projects for modules constituting the Programming in Python for Data Science course through UBC's Extended Learning.
 
-This repository is comprehensive and contains all assignments completed.
+This repository is comprehensive and contains all assignments completed. It has been updated to contain the final project. 
 
 ## Course Modules
 
